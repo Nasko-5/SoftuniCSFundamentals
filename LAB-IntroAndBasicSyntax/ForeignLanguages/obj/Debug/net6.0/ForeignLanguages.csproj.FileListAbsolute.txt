@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.exe
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.deps.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\refint\ForeignLanguages.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\ForeignLanguages\obj\Debug\net6.0\ref\ForeignLanguages.dll

@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\bin\Debug\net6.0\EvenNumber.exe
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\bin\Debug\net6.0\EvenNumber.deps.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\bin\Debug\net6.0\EvenNumber.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\bin\Debug\net6.0\EvenNumber.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\bin\Debug\net6.0\EvenNumber.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\refint\EvenNumber.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\EvenNumber.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\EvenNumber\obj\Debug\net6.0\ref\EvenNumber.dll

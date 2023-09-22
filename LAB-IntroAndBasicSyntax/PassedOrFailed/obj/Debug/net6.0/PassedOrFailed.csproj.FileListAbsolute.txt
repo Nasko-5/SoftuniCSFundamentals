@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.exe
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.deps.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\refint\PassedOrFailed.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\PassedOrFailed\obj\Debug\net6.0\ref\PassedOrFailed.dll

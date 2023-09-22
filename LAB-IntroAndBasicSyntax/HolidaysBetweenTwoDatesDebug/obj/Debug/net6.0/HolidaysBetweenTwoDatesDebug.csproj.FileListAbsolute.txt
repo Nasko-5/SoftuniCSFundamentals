@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\bin\Debug\net6.0\HolidaysBetweenTwoDatesDebug.exe
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\bin\Debug\net6.0\HolidaysBetweenTwoDatesDebug.deps.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\bin\Debug\net6.0\HolidaysBetweenTwoDatesDebug.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\bin\Debug\net6.0\HolidaysBetweenTwoDatesDebug.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\bin\Debug\net6.0\HolidaysBetweenTwoDatesDebug.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\refint\HolidaysBetweenTwoDatesDebug.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\HolidaysBetweenTwoDatesDebug.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\HolidaysBetweenTwoDatesDebug\obj\Debug\net6.0\ref\HolidaysBetweenTwoDatesDebug.dll

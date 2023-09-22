@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\bin\Debug\net6.0\Passed.exe
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\bin\Debug\net6.0\Passed.deps.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\bin\Debug\net6.0\Passed.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\bin\Debug\net6.0\Passed.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\bin\Debug\net6.0\Passed.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\refint\Passed.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\Passed.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\Passed\obj\Debug\net6.0\ref\Passed.dll

@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.exe
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.deps.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\refint\TheatrePromotions.dll
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.pdb
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\ConsoleApp1\TheatrePromotions\obj\Debug\net6.0\ref\TheatrePromotions.dll
