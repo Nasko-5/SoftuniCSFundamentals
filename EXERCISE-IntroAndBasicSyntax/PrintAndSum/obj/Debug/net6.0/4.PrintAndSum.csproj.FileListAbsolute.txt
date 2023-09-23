@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.exe
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.deps.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\refint\4.PrintAndSum.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\PrintAndSum\obj\Debug\net6.0\ref\4.PrintAndSum.dll

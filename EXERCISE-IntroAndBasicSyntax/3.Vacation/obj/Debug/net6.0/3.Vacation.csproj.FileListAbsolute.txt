@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\bin\Debug\net6.0\3.Vacation.exe
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\bin\Debug\net6.0\3.Vacation.deps.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\bin\Debug\net6.0\3.Vacation.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\bin\Debug\net6.0\3.Vacation.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\bin\Debug\net6.0\3.Vacation.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\refint\3.Vacation.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\3.Vacation.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\3.Vacation\obj\Debug\net6.0\ref\3.Vacation.dll

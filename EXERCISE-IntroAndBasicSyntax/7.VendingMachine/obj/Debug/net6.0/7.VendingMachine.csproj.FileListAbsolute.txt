@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\bin\Debug\net6.0\7.VendingMachine.exe
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\bin\Debug\net6.0\7.VendingMachine.deps.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\bin\Debug\net6.0\7.VendingMachine.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\bin\Debug\net6.0\7.VendingMachine.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\bin\Debug\net6.0\7.VendingMachine.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\refint\7.VendingMachine.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\7.VendingMachine.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\7.VendingMachine\obj\Debug\net6.0\ref\7.VendingMachine.dll

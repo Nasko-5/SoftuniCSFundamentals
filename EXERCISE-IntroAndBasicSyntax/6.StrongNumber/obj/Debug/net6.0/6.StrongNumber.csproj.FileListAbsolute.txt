@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.exe
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.deps.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\bin\Debug\net6.0\6.StrongNumber.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\refint\6.StrongNumber.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\6.StrongNumber.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\6.StrongNumber\obj\Debug\net6.0\ref\6.StrongNumber.dll

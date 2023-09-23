@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\bin\Debug\net6.0\5.Login.exe
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\bin\Debug\net6.0\5.Login.deps.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\bin\Debug\net6.0\5.Login.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\bin\Debug\net6.0\5.Login.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\bin\Debug\net6.0\5.Login.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\refint\5.Login.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\5.Login.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Login\obj\Debug\net6.0\ref\5.Login.dll

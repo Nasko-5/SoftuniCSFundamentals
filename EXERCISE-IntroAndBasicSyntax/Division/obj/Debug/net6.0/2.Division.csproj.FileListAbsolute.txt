@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\bin\Debug\net6.0\2.Division.exe
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\bin\Debug\net6.0\2.Division.deps.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\bin\Debug\net6.0\2.Division.runtimeconfig.json
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\bin\Debug\net6.0\2.Division.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\bin\Debug\net6.0\2.Division.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\refint\2.Division.dll
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.pdb
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\2.Division.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\btest\EXERCISE-IntroAndBasicSyntax\Division\obj\Debug\net6.0\ref\2.Division.dll
