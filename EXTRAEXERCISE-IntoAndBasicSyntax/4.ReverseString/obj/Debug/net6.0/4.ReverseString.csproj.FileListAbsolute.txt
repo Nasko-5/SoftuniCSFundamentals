@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\bin\Debug\net6.0\4.ReverseString.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\bin\Debug\net6.0\4.ReverseString.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\bin\Debug\net6.0\4.ReverseString.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\bin\Debug\net6.0\4.ReverseString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\bin\Debug\net6.0\4.ReverseString.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\refint\4.ReverseString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\4.ReverseString.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\4.ReverseString\obj\Debug\net6.0\ref\4.ReverseString.dll

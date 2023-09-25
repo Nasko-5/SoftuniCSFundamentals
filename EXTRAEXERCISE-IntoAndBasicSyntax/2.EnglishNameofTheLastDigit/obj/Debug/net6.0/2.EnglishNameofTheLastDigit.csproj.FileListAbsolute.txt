@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\bin\Debug\net6.0\2.EnglishNameofTheLastDigit.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\bin\Debug\net6.0\2.EnglishNameofTheLastDigit.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\bin\Debug\net6.0\2.EnglishNameofTheLastDigit.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\bin\Debug\net6.0\2.EnglishNameofTheLastDigit.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\bin\Debug\net6.0\2.EnglishNameofTheLastDigit.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\refint\2.EnglishNameofTheLastDigit.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\2.EnglishNameofTheLastDigit.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\2.EnglishNameofTheLastDigit\obj\Debug\net6.0\ref\2.EnglishNameofTheLastDigit.dll

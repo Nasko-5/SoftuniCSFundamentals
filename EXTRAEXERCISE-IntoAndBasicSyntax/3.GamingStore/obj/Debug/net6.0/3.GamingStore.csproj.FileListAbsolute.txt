@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\bin\Debug\net6.0\3.GamingStore.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\bin\Debug\net6.0\3.GamingStore.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\bin\Debug\net6.0\3.GamingStore.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\bin\Debug\net6.0\3.GamingStore.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\bin\Debug\net6.0\3.GamingStore.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\refint\3.GamingStore.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\3.GamingStore.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\3.GamingStore\obj\Debug\net6.0\ref\3.GamingStore.dll

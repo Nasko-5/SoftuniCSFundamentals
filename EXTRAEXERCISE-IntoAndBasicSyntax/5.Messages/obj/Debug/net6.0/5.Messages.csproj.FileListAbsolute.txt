@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\bin\Debug\net6.0\5.Messages.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\bin\Debug\net6.0\5.Messages.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\bin\Debug\net6.0\5.Messages.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\bin\Debug\net6.0\5.Messages.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\bin\Debug\net6.0\5.Messages.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\refint\5.Messages.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\5.Messages.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXTRAEXERCISE-IntoAndBasicSyntax\5.Messages\obj\Debug\net6.0\ref\5.Messages.dll
