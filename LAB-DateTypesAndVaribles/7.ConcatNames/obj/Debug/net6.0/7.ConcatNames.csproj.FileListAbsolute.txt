@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\bin\Debug\net6.0\7.ConcatNames.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\bin\Debug\net6.0\7.ConcatNames.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\bin\Debug\net6.0\7.ConcatNames.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\bin\Debug\net6.0\7.ConcatNames.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\bin\Debug\net6.0\7.ConcatNames.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\refint\7.ConcatNames.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\7.ConcatNames.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\7.ConcatNames\obj\Debug\net6.0\ref\7.ConcatNames.dll

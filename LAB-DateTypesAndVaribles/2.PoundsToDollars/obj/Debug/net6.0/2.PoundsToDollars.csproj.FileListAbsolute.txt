@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\refint\2.PoundsToDollars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\2.PoundsToDollars\obj\Debug\net6.0\ref\2.PoundsToDollars.dll

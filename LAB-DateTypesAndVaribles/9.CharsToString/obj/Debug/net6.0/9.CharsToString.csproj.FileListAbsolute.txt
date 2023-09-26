@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\bin\Debug\net6.0\9.CharsToString.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\bin\Debug\net6.0\9.CharsToString.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\bin\Debug\net6.0\9.CharsToString.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\bin\Debug\net6.0\9.CharsToString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\bin\Debug\net6.0\9.CharsToString.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\refint\9.CharsToString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\9.CharsToString.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\9.CharsToString\obj\Debug\net6.0\ref\9.CharsToString.dll

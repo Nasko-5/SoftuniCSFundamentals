@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\bin\Debug\net6.0\8.TownInfo.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\bin\Debug\net6.0\8.TownInfo.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\bin\Debug\net6.0\8.TownInfo.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\bin\Debug\net6.0\8.TownInfo.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\bin\Debug\net6.0\8.TownInfo.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\refint\8.TownInfo.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\8.TownInfo.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\8.TownInfo\obj\Debug\net6.0\ref\8.TownInfo.dll

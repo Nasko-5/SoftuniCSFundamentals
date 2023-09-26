@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\bin\Debug\net6.0\11.RefactorVolumeOfPyramid.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\refint\11.RefactorVolumeOfPyramid.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\11.RefactorVolumeOfPyramid\obj\Debug\net6.0\ref\11.RefactorVolumeOfPyramid.dll

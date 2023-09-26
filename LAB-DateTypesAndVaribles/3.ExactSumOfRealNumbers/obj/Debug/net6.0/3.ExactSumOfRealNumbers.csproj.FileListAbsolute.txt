@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\bin\Debug\net6.0\3.ExactSumOfRealNumbers.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\bin\Debug\net6.0\3.ExactSumOfRealNumbers.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\bin\Debug\net6.0\3.ExactSumOfRealNumbers.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\bin\Debug\net6.0\3.ExactSumOfRealNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\bin\Debug\net6.0\3.ExactSumOfRealNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\refint\3.ExactSumOfRealNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\3.ExactSumOfRealNumbers.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\3.ExactSumOfRealNumbers\obj\Debug\net6.0\ref\3.ExactSumOfRealNumbers.dll

@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\refint\4.CenturiesToMinutes.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\4.CenturiesToMinutes\obj\Debug\net6.0\ref\4.CenturiesToMinutes.dll

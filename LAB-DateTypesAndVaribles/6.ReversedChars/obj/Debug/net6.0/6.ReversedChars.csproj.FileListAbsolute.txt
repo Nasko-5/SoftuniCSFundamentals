@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\refint\6.ReversedChars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\6.ReversedChars\obj\Debug\net6.0\ref\6.ReversedChars.dll

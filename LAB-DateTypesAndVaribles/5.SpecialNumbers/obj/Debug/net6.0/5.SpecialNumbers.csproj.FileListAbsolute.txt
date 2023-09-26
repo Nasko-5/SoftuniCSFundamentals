@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\bin\Debug\net6.0\5.SpecialNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\refint\5.SpecialNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\5.SpecialNumbers.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-DateTypesAndVaribles\5.SpecialNumbers\obj\Debug\net6.0\ref\5.SpecialNumbers.dll
