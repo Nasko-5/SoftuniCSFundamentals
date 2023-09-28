@@ -27,11 +27,12 @@ for (int i = 0; i < numberOfSnowBalls; i++)
     var newSnowball = getSnowball();
 
     //Console.WriteLine($"Looking at {newSnowball.snowballValue}");
-    if (newSnowball.snowballValue > bestSnowball.snowballValue)
+    if (newSnowball.snowballValue > bestSnowball.snowballValue) {
     
         //Console.WriteLine($"{newSnowball.snowballValue} > {bestSnowball.snowballValue}");
         bestSnowball = newSnowball;
-    }}
+    }
+}
 
 
 // •	The output format is: 

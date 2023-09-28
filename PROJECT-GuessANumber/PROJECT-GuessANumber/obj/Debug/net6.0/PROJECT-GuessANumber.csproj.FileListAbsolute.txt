@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\bin\Debug\net6.0\PROJECT-GuessANumber.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\bin\Debug\net6.0\PROJECT-GuessANumber.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\bin\Debug\net6.0\PROJECT-GuessANumber.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\bin\Debug\net6.0\PROJECT-GuessANumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\bin\Debug\net6.0\PROJECT-GuessANumber.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\refint\PROJECT-GuessANumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\PROJECT-GuessANumber.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-GuessANumber\PROJECT-GuessANumber\obj\Debug\net6.0\ref\PROJECT-GuessANumber.dll
