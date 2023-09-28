@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\bin\Debug\net6.0\9.BeerKegs.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\bin\Debug\net6.0\9.BeerKegs.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\bin\Debug\net6.0\9.BeerKegs.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\bin\Debug\net6.0\9.BeerKegs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\bin\Debug\net6.0\9.BeerKegs.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\refint\9.BeerKegs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\9.BeerKegs.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.BeerKegs\obj\Debug\net6.0\ref\9.BeerKegs.dll

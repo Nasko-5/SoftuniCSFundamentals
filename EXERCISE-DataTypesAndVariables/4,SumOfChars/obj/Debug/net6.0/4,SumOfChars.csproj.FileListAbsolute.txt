@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\bin\Debug\net6.0\4,SumOfChars.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\bin\Debug\net6.0\4,SumOfChars.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\bin\Debug\net6.0\4,SumOfChars.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\bin\Debug\net6.0\4,SumOfChars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\bin\Debug\net6.0\4,SumOfChars.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\refint\4,SumOfChars.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\4,SumOfChars.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\4,SumOfChars\obj\Debug\net6.0\ref\4,SumOfChars.dll

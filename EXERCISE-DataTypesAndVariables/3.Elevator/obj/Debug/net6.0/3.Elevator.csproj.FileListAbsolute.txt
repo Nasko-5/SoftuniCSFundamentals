@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\bin\Debug\net6.0\3.Elevator.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\bin\Debug\net6.0\3.Elevator.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\bin\Debug\net6.0\3.Elevator.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\bin\Debug\net6.0\3.Elevator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\bin\Debug\net6.0\3.Elevator.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\refint\3.Elevator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\3.Elevator.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\3.Elevator\obj\Debug\net6.0\ref\3.Elevator.dll

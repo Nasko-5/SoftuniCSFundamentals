@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\bin\Debug\net6.0\1.IntigerOperations.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\bin\Debug\net6.0\1.IntigerOperations.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\bin\Debug\net6.0\1.IntigerOperations.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\bin\Debug\net6.0\1.IntigerOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\bin\Debug\net6.0\1.IntigerOperations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\refint\1.IntigerOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\1.IntigerOperations.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\1.IntigerOperations\obj\Debug\net6.0\ref\1.IntigerOperations.dll

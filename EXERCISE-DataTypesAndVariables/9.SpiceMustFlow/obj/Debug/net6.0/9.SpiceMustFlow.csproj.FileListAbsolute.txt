@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\net6.0\9.SpiceMustFlow.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\net6.0\9.SpiceMustFlow.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\net6.0\9.SpiceMustFlow.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\net6.0\9.SpiceMustFlow.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\bin\Debug\net6.0\9.SpiceMustFlow.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\refint\9.SpiceMustFlow.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\9.SpiceMustFlow.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\9.SpiceMustFlow\obj\Debug\net6.0\ref\9.SpiceMustFlow.dll

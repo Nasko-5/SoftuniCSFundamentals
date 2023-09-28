@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\bin\Debug\net6.0\7.WaterOverflow.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\bin\Debug\net6.0\7.WaterOverflow.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\bin\Debug\net6.0\7.WaterOverflow.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\bin\Debug\net6.0\7.WaterOverflow.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\bin\Debug\net6.0\7.WaterOverflow.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\refint\7.WaterOverflow.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\7.WaterOverflow.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\7.WaterOverflow\obj\Debug\net6.0\ref\7.WaterOverflow.dll

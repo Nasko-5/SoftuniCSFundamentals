@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\bin\Debug\net6.0\5.PrintPartOfTheASCIITable.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\bin\Debug\net6.0\5.PrintPartOfTheASCIITable.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\bin\Debug\net6.0\5.PrintPartOfTheASCIITable.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\bin\Debug\net6.0\5.PrintPartOfTheASCIITable.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\bin\Debug\net6.0\5.PrintPartOfTheASCIITable.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\refint\5.PrintPartOfTheASCIITable.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\5.PrintPartOfTheASCIITable.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\5.PrintPartOfTheASCIITable\obj\Debug\net6.0\ref\5.PrintPartOfTheASCIITable.dll

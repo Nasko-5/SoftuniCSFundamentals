@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\bin\Debug\net6.0\11.Snowballs.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\bin\Debug\net6.0\11.Snowballs.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\bin\Debug\net6.0\11.Snowballs.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\bin\Debug\net6.0\11.Snowballs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\bin\Debug\net6.0\11.Snowballs.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\refint\11.Snowballs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\11.Snowballs.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\11.Snowballs\obj\Debug\net6.0\ref\11.Snowballs.dll

@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\bin\Debug\net6.0\6.TriplesOfLatinLetters.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\refint\6.TriplesOfLatinLetters.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\6.TriplesOfLatinLetters.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-DataTypesAndVariables\6.TripelsOfLatinLetters\obj\Debug\net6.0\ref\6.TriplesOfLatinLetters.dll
