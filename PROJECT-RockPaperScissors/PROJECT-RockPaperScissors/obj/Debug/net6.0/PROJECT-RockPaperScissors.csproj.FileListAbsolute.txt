@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\bin\Debug\net6.0\PROJECT-RockPaperScissors.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\bin\Debug\net6.0\PROJECT-RockPaperScissors.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\bin\Debug\net6.0\PROJECT-RockPaperScissors.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\bin\Debug\net6.0\PROJECT-RockPaperScissors.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\bin\Debug\net6.0\PROJECT-RockPaperScissors.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\refint\PROJECT-RockPaperScissors.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\PROJECT-RockPaperScissors.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\PROJECT-RockPaperScissors\PROJECT-RockPaperScissors\obj\Debug\net6.0\ref\PROJECT-RockPaperScissors.dll
