@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\2.PrintNumbersInReverseOrder.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\2.PrintNumbersInReverseOrder.dll

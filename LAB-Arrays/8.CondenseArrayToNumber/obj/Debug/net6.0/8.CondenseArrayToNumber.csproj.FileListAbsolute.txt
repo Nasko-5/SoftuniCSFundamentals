@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\refint\8.CondenseArrayToNumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\8.CondenseArrayToNumber\obj\Debug\net6.0\ref\8.CondenseArrayToNumber.dll

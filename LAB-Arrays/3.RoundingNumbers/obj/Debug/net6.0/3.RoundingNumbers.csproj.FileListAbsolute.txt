@@ -1,0 +1,15 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.csproj.AssemblyReference.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\bin\Debug\net6.0\3.RoundingNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\refint\3.RoundingNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\3.RoundingNumbers.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ARRAYS\3.RoundingNumbers\obj\Debug\net6.0\ref\3.RoundingNumbers.dll
