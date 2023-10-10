@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\bin\Debug\net6.0\2.CommonElements.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\bin\Debug\net6.0\2.CommonElements.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\bin\Debug\net6.0\2.CommonElements.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\bin\Debug\net6.0\2.CommonElements.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\bin\Debug\net6.0\2.CommonElements.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\2.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\2.CommonElements.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\2.CommonElements.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\2.CommonElements.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\2.CommonElements.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\refint\2.CommonElements.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\2.CommonElements.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\2.CommonElements.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\2.CommonElements\obj\Debug\net6.0\ref\2.CommonElements.dll

@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\bin\Debug\net6.0\5.TopIntegers.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\bin\Debug\net6.0\5.TopIntegers.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\bin\Debug\net6.0\5.TopIntegers.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\bin\Debug\net6.0\5.TopIntegers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\bin\Debug\net6.0\5.TopIntegers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\5.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\5.TopIntegers.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\5.TopIntegers.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\5.TopIntegers.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\5.TopIntegers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\refint\5.TopIntegers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\5.TopIntegers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\5.TopIntegers.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\TopIntegers\obj\Debug\net6.0\ref\5.TopIntegers.dll

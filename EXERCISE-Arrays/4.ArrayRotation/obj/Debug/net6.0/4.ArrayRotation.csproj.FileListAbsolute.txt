@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\bin\Debug\net6.0\4.ArrayRotation.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\refint\4.ArrayRotation.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\4.ArrayRotation.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-Arrays\4.ArrayRotation\obj\Debug\net6.0\ref\4.ArrayRotation.dll
