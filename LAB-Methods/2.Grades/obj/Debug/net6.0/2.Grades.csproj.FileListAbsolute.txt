@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\bin\Debug\net6.0\2.Grades.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\bin\Debug\net6.0\2.Grades.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\bin\Debug\net6.0\2.Grades.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\bin\Debug\net6.0\2.Grades.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\bin\Debug\net6.0\2.Grades.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\2.Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\2.Grades.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\2.Grades.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\2.Grades.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\2.Grades.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\refint\2.Grades.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\2.Grades.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\2.Grades.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\2.Grades\obj\Debug\net6.0\ref\2.Grades.dll

@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\bin\Debug\net6.0\11.MathOperations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\refint\11.MathOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\11.MathOperations.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\11.MathOperations\obj\Debug\net6.0\ref\11.MathOperations.dll

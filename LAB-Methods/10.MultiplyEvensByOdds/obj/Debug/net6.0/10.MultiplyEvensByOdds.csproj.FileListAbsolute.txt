@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\refint\10.MultiplyEvensByOdds.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\ref\10.MultiplyEvensByOdds.dll

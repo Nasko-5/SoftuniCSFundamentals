@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\bin\Debug\net6.0\5.Orders.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\bin\Debug\net6.0\5.Orders.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\bin\Debug\net6.0\5.Orders.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\bin\Debug\net6.0\5.Orders.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\bin\Debug\net6.0\5.Orders.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\5.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\5.Orders.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\5.Orders.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\5.Orders.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\5.Orders.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\refint\5.Orders.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\5.Orders.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\5.Orders.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\5.Orders\obj\Debug\net6.0\ref\5.Orders.dll

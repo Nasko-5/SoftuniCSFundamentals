@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\bin\Debug\net6.0\3.Calculations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\refint\3.Calculations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\3.Calculations.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Methods\3.Calculations\obj\Debug\net6.0\ref\3.Calculations.dll
