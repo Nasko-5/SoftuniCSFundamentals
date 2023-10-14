@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\bin\Debug\net6.0\7.ListManipulationAdvanced.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\bin\Debug\net6.0\7.ListManipulationAdvanced.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\bin\Debug\net6.0\7.ListManipulationAdvanced.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\bin\Debug\net6.0\7.ListManipulationAdvanced.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\bin\Debug\net6.0\7.ListManipulationAdvanced.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\7.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\7.ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\7.ListManipulationAdvanced.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\7.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\7.ListManipulationAdvanced.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\refint\7.ListManipulationAdvanced.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\7.ListManipulationAdvanced.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\7.ListManipulationAdvanced.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\7.ListManipulationAdvanced\obj\Debug\net6.0\ref\7.ListManipulationAdvanced.dll

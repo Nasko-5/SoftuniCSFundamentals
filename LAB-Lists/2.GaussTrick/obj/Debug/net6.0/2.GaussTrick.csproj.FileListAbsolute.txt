@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\bin\Debug\net6.0\2.GaussTrick.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\bin\Debug\net6.0\2.GaussTrick.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\bin\Debug\net6.0\2.GaussTrick.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\bin\Debug\net6.0\2.GaussTrick.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\bin\Debug\net6.0\2.GaussTrick.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\2.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\2.GaussTrick.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\2.GaussTrick.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\2.GaussTrick.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\2.GaussTrick.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\refint\2.GaussTrick.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\2.GaussTrick.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\2.GaussTrick.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\2.GaussTrick\obj\Debug\net6.0\ref\2.GaussTrick.dll

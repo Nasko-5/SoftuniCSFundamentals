@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\bin\Debug\net6.0\4.ListOfProducts.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\bin\Debug\net6.0\4.ListOfProducts.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\bin\Debug\net6.0\4.ListOfProducts.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\bin\Debug\net6.0\4.ListOfProducts.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\bin\Debug\net6.0\4.ListOfProducts.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\4.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\4.ListOfProducts.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\4.ListOfProducts.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\4.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\4.ListOfProducts.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\refint\4.ListOfProducts.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\4.ListOfProducts.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\4.ListOfProducts.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\4.ListOfProducts\obj\Debug\net6.0\ref\4.ListOfProducts.dll

@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\bin\Debug\net6.0\5.RemoveNegativesAndReverse.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\bin\Debug\net6.0\5.RemoveNegativesAndReverse.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\bin\Debug\net6.0\5.RemoveNegativesAndReverse.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\bin\Debug\net6.0\5.RemoveNegativesAndReverse.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\bin\Debug\net6.0\5.RemoveNegativesAndReverse.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\5.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\5.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\5.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\5.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\5.RemoveNegativesAndReverse.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\refint\5.RemoveNegativesAndReverse.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\5.RemoveNegativesAndReverse.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\5.RemoveNegativesAndReverse.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\5.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\5.RemoveNegativesAndReverse.dll

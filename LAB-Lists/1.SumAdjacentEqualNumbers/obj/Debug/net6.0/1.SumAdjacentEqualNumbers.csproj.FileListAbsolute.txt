@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\bin\Debug\net6.0\1.SumAdjacentEqualNumbers.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\bin\Debug\net6.0\1.SumAdjacentEqualNumbers.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\bin\Debug\net6.0\1.SumAdjacentEqualNumbers.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\bin\Debug\net6.0\1.SumAdjacentEqualNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\bin\Debug\net6.0\1.SumAdjacentEqualNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\1.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\1.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\1.SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\1.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\1.SumAdjacentEqualNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\refint\1.SumAdjacentEqualNumbers.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\1.SumAdjacentEqualNumbers.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\1.SumAdjacentEqualNumbers.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-Lists\1.SumAdjacentEqualNumbers\obj\Debug\net6.0\ref\1.SumAdjacentEqualNumbers.dll
