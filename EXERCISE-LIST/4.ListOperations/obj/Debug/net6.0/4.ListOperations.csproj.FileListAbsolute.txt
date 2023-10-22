@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\4.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\4.ListOperations.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\4.ListOperations.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\4.ListOperations.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\bin\Debug\net6.0\4.ListOperations.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\bin\Debug\net6.0\4.ListOperations.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\bin\Debug\net6.0\4.ListOperations.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\bin\Debug\net6.0\4.ListOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\bin\Debug\net6.0\4.ListOperations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\4.ListOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\refint\4.ListOperations.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\4.ListOperations.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\4.ListOperations.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\4.ListOperations\obj\Debug\net6.0\ref\4.ListOperations.dll

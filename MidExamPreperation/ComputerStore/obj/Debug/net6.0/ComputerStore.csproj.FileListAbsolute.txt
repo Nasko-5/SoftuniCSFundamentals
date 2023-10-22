@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\bin\Debug\net6.0\ComputerStore.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\bin\Debug\net6.0\ComputerStore.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\bin\Debug\net6.0\ComputerStore.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\bin\Debug\net6.0\ComputerStore.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\bin\Debug\net6.0\ComputerStore.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ComputerStore.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ComputerStore.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ComputerStore.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ComputerStore.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\refint\ComputerStore.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ComputerStore.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ComputerStore.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ComputerStore\obj\Debug\net6.0\ref\ComputerStore.dll

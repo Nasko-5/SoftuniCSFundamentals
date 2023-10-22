@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\bin\Debug\net6.0\MemoryGame.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\bin\Debug\net6.0\MemoryGame.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\bin\Debug\net6.0\MemoryGame.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\bin\Debug\net6.0\MemoryGame.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\bin\Debug\net6.0\MemoryGame.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\MemoryGame.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\MemoryGame.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\MemoryGame.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\MemoryGame.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\refint\MemoryGame.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\MemoryGame.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\MemoryGame.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\MemoryGame\obj\Debug\net6.0\ref\MemoryGame.dll

@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\bin\Debug\net6.0\Problem1.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\bin\Debug\net6.0\Problem1.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\bin\Debug\net6.0\Problem1.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\bin\Debug\net6.0\Problem1.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\bin\Debug\net6.0\Problem1.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\Problem1.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\Problem1.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\Problem1.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\refint\Problem1.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\Problem1.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\Problem1.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\RegularMidExam\Problem1\obj\Debug\net6.0\ref\Problem1.dll

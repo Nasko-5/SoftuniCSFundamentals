@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\refint\ShootForTheWin.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\MidExamPreperation\ShootForTheWin\obj\Debug\net6.0\ref\ShootForTheWin.dll

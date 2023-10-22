@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\bin\Debug\net6.0\2.ChangeList.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\bin\Debug\net6.0\2.ChangeList.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\bin\Debug\net6.0\2.ChangeList.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\bin\Debug\net6.0\2.ChangeList.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\bin\Debug\net6.0\2.ChangeList.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\2.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\2.ChangeList.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\2.ChangeList.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\2.ChangeList.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\2.ChangeList.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\refint\2.ChangeList.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\2.ChangeList.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\2.ChangeList.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-LIST\02.ChangeList\obj\Debug\net6.0\ref\2.ChangeList.dll
