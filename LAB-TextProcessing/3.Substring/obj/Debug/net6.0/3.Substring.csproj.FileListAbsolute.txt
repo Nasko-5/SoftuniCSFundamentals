@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\bin\Debug\net6.0\3.Substring.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\bin\Debug\net6.0\3.Substring.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\bin\Debug\net6.0\3.Substring.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\bin\Debug\net6.0\3.Substring.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\bin\Debug\net6.0\3.Substring.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\3.Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\3.Substring.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\3.Substring.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\3.Substring.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\3.Substring.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\refint\3.Substring.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\3.Substring.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\3.Substring.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\3.Substring\obj\Debug\net6.0\ref\3.Substring.dll

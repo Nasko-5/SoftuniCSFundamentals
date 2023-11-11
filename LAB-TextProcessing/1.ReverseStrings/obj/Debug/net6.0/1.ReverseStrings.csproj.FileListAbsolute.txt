@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\bin\Debug\net6.0\1.ReverseStrings.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\bin\Debug\net6.0\1.ReverseStrings.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\bin\Debug\net6.0\1.ReverseStrings.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\bin\Debug\net6.0\1.ReverseStrings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\bin\Debug\net6.0\1.ReverseStrings.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\1.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\1.ReverseStrings.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\1.ReverseStrings.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\1.ReverseStrings.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\1.ReverseStrings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\refint\1.ReverseStrings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\1.ReverseStrings.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\1.ReverseStrings.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\1.ReverseStrings\obj\Debug\net6.0\ref\1.ReverseStrings.dll

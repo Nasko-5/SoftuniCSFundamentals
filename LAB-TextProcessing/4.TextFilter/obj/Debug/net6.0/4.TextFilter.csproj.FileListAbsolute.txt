@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\bin\Debug\net6.0\4.TextFilter.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\bin\Debug\net6.0\4.TextFilter.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\bin\Debug\net6.0\4.TextFilter.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\bin\Debug\net6.0\4.TextFilter.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\bin\Debug\net6.0\4.TextFilter.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\4.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\4.TextFilter.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\4.TextFilter.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\4.TextFilter.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\4.TextFilter.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\refint\4.TextFilter.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\4.TextFilter.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\4.TextFilter.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\4.TextFilter\obj\Debug\net6.0\ref\4.TextFilter.dll

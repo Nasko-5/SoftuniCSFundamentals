@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\bin\Debug\net6.0\2.RepeatStrings.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\bin\Debug\net6.0\2.RepeatStrings.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\bin\Debug\net6.0\2.RepeatStrings.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\bin\Debug\net6.0\2.RepeatStrings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\bin\Debug\net6.0\2.RepeatStrings.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\2.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\2.RepeatStrings.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\2.RepeatStrings.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\2.RepeatStrings.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\2.RepeatStrings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\refint\2.RepeatStrings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\2.RepeatStrings.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\2.RepeatStrings.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-TextProcessing\2.RepeatStrings\obj\Debug\net6.0\ref\2.RepeatStrings.dll
