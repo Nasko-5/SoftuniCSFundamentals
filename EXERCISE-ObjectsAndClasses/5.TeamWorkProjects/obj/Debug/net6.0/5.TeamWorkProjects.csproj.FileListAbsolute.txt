@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\bin\Debug\net6.0\5.TeamWorkProjects.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\bin\Debug\net6.0\5.TeamWorkProjects.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\bin\Debug\net6.0\5.TeamWorkProjects.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\bin\Debug\net6.0\5.TeamWorkProjects.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\bin\Debug\net6.0\5.TeamWorkProjects.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\5.TeamWorkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\5.TeamWorkProjects.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\5.TeamWorkProjects.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\5.TeamWorkProjects.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\5.TeamWorkProjects.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\refint\5.TeamWorkProjects.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\5.TeamWorkProjects.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\5.TeamWorkProjects.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\5.TeamWorkProjects\obj\Debug\net6.0\ref\5.TeamWorkProjects.dll

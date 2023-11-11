@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\bin\Debug\net6.0\3.Article2.0.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\bin\Debug\net6.0\3.Article2.0.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\bin\Debug\net6.0\3.Article2.0.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\bin\Debug\net6.0\3.Article2.0.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\bin\Debug\net6.0\3.Article2.0.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\3.Article2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\3.Article2.0.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\3.Article2.0.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\3.Article2.0.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\3.Article2.0.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\refint\3.Article2.0.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\3.Article2.0.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\3.Article2.0.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\3.Article2.0\obj\Debug\net6.0\ref\3.Article2.0.dll

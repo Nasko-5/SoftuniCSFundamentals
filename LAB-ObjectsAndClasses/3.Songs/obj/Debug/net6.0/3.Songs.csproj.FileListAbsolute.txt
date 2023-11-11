@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\bin\Debug\net6.0\3.Songs.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\bin\Debug\net6.0\3.Songs.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\bin\Debug\net6.0\3.Songs.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\bin\Debug\net6.0\3.Songs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\bin\Debug\net6.0\3.Songs.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\3.Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\3.Songs.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\3.Songs.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\3.Songs.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\3.Songs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\refint\3.Songs.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\3.Songs.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\3.Songs.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\3.Songs\obj\Debug\net6.0\ref\3.Songs.dll

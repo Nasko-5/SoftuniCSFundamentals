@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\bin\Debug\net6.0\1.AdvertismentMessage.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\bin\Debug\net6.0\1.AdvertismentMessage.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\bin\Debug\net6.0\1.AdvertismentMessage.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\bin\Debug\net6.0\1.AdvertismentMessage.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\bin\Debug\net6.0\1.AdvertismentMessage.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\1.AdvertismentMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\1.AdvertismentMessage.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\1.AdvertismentMessage.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\1.AdvertismentMessage.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\1.AdvertismentMessage.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\refint\1.AdvertismentMessage.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\1.AdvertismentMessage.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\1.AdvertismentMessage.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\1.AdvertismentMessage\obj\Debug\net6.0\ref\1.AdvertismentMessage.dll

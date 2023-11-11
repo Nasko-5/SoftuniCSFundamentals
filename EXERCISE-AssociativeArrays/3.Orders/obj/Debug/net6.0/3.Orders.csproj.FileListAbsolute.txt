@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\bin\Debug\net6.0\3.Orders.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\bin\Debug\net6.0\3.Orders.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\bin\Debug\net6.0\3.Orders.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\bin\Debug\net6.0\3.Orders.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\bin\Debug\net6.0\3.Orders.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\3.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\3.Orders.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\3.Orders.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\3.Orders.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\3.Orders.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\refint\3.Orders.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\3.Orders.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\3.Orders.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\3.Orders\obj\Debug\net6.0\ref\3.Orders.dll

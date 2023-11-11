@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\bin\Debug\net6.0\1.CountCharsInAString.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\refint\1.CountCharsInAString.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\1.CountCharsInAString.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\1.CountCharsInAString\obj\Debug\net6.0\ref\1.CountCharsInAString.dll

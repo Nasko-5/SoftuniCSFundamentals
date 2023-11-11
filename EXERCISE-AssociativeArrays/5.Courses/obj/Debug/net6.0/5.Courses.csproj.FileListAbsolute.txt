@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\refint\5.Courses.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\5.Courses\obj\Debug\net6.0\ref\5.Courses.dll

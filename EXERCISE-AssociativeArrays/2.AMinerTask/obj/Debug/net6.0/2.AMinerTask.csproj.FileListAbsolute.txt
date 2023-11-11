@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\bin\Debug\net6.0\2.AMinerTask.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\bin\Debug\net6.0\2.AMinerTask.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\bin\Debug\net6.0\2.AMinerTask.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\bin\Debug\net6.0\2.AMinerTask.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\bin\Debug\net6.0\2.AMinerTask.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\2.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\2.AMinerTask.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\2.AMinerTask.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\2.AMinerTask.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\2.AMinerTask.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\refint\2.AMinerTask.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\2.AMinerTask.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\2.AMinerTask.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\2.AMinerTask\obj\Debug\net6.0\ref\2.AMinerTask.dll

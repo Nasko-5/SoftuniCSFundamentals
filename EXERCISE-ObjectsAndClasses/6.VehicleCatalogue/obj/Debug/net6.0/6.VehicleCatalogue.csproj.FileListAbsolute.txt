@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\bin\Debug\net6.0\6.VehicleCatalogue.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\bin\Debug\net6.0\6.VehicleCatalogue.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\bin\Debug\net6.0\6.VehicleCatalogue.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\bin\Debug\net6.0\6.VehicleCatalogue.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\bin\Debug\net6.0\6.VehicleCatalogue.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\6.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\6.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\6.VehicleCatalogue.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\6.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\6.VehicleCatalogue.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\refint\6.VehicleCatalogue.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\6.VehicleCatalogue.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\6.VehicleCatalogue.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-ObjectsAndClasses\6.VehicleCatalogue\obj\Debug\net6.0\ref\6.VehicleCatalogue.dll

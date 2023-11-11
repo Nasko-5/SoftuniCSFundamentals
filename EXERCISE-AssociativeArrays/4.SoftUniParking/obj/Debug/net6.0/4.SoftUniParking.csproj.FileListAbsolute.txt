@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\bin\Debug\net6.0\4.SoftUniParking.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\bin\Debug\net6.0\4.SoftUniParking.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\bin\Debug\net6.0\4.SoftUniParking.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\bin\Debug\net6.0\4.SoftUniParking.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\bin\Debug\net6.0\4.SoftUniParking.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\4.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\4.SoftUniParking.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\4.SoftUniParking.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\4.SoftUniParking.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\4.SoftUniParking.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\refint\4.SoftUniParking.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\4.SoftUniParking.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\4.SoftUniParking.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-AssociativeArrays\4.SoftUniParking\obj\Debug\net6.0\ref\4.SoftUniParking.dll

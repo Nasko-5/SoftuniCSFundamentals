@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\bin\Debug\net6.0\WordRandomiser.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\bin\Debug\net6.0\WordRandomiser.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\bin\Debug\net6.0\WordRandomiser.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\bin\Debug\net6.0\WordRandomiser.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\bin\Debug\net6.0\WordRandomiser.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\WordRandomiser.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\WordRandomiser.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\WordRandomiser.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\WordRandomiser.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\WordRandomiser.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\refint\WordRandomiser.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\WordRandomiser.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\WordRandomiser.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\WordRandomiser\obj\Debug\net6.0\ref\WordRandomiser.dll

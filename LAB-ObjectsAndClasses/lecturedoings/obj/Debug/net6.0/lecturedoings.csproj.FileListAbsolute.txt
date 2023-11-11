@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\bin\Debug\net6.0\lecturedoings.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\bin\Debug\net6.0\lecturedoings.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\bin\Debug\net6.0\lecturedoings.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\bin\Debug\net6.0\lecturedoings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\bin\Debug\net6.0\lecturedoings.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\lecturedoings.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\lecturedoings.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\lecturedoings.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\lecturedoings.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\lecturedoings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\refint\lecturedoings.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\lecturedoings.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\lecturedoings.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-ObjectsAndClasses\lecturedoings\obj\Debug\net6.0\ref\lecturedoings.dll
