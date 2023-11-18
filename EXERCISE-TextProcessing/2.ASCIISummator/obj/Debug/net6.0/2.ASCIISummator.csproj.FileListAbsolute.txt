@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\bin\Debug\net6.0\2.ASCIISummator.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\bin\Debug\net6.0\2.ASCIISummator.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\bin\Debug\net6.0\2.ASCIISummator.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\bin\Debug\net6.0\2.ASCIISummator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\bin\Debug\net6.0\2.ASCIISummator.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\2.ASCIISummator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\2.ASCIISummator.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\2.ASCIISummator.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\2.ASCIISummator.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\2.ASCIISummator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\refint\2.ASCIISummator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\2.ASCIISummator.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\2.ASCIISummator.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\2.ASCIISummator\obj\Debug\net6.0\ref\2.ASCIISummator.dll

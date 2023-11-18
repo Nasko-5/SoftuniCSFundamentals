@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\bin\Debug\net6.0\1.MatchFullName.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\bin\Debug\net6.0\1.MatchFullName.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\bin\Debug\net6.0\1.MatchFullName.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\bin\Debug\net6.0\1.MatchFullName.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\bin\Debug\net6.0\1.MatchFullName.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\1.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\1.MatchFullName.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\1.MatchFullName.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\1.MatchFullName.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\1.MatchFullName.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\refint\1.MatchFullName.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\1.MatchFullName.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\1.MatchFullName.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\1.MatchFullName\obj\Debug\net6.0\ref\1.MatchFullName.dll

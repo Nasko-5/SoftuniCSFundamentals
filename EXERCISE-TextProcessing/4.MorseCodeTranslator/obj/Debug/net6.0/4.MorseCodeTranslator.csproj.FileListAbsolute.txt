@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\bin\Debug\net6.0\4.MorseCodeTranslator.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\bin\Debug\net6.0\4.MorseCodeTranslator.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\bin\Debug\net6.0\4.MorseCodeTranslator.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\bin\Debug\net6.0\4.MorseCodeTranslator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\bin\Debug\net6.0\4.MorseCodeTranslator.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\4.MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\4.MorseCodeTranslator.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\4.MorseCodeTranslator.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\4.MorseCodeTranslator.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\4.MorseCodeTranslator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\refint\4.MorseCodeTranslator.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\4.MorseCodeTranslator.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\4.MorseCodeTranslator.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\4.MorseCodeTranslator\obj\Debug\net6.0\ref\4.MorseCodeTranslator.dll

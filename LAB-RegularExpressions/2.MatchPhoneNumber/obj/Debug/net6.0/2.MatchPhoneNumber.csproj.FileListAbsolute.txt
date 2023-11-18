@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\bin\Debug\net6.0\2.MatchPhoneNumber.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\bin\Debug\net6.0\2.MatchPhoneNumber.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\bin\Debug\net6.0\2.MatchPhoneNumber.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\bin\Debug\net6.0\2.MatchPhoneNumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\bin\Debug\net6.0\2.MatchPhoneNumber.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\2.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\2.MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\2.MatchPhoneNumber.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\2.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\2.MatchPhoneNumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\refint\2.MatchPhoneNumber.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\2.MatchPhoneNumber.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\2.MatchPhoneNumber.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\LAB-RegularExpressions\2.MatchPhoneNumber\obj\Debug\net6.0\ref\2.MatchPhoneNumber.dll

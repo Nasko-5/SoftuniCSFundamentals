@@ -1,0 +1,14 @@
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\bin\Debug\net6.0\1.ExtractPersonInformation.exe
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\bin\Debug\net6.0\1.ExtractPersonInformation.deps.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\bin\Debug\net6.0\1.ExtractPersonInformation.runtimeconfig.json
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\bin\Debug\net6.0\1.ExtractPersonInformation.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\bin\Debug\net6.0\1.ExtractPersonInformation.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\1.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\1.ExtractPersonInformation.AssemblyInfoInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\1.ExtractPersonInformation.AssemblyInfo.cs
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\1.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\1.ExtractPersonInformation.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\refint\1.ExtractPersonInformation.dll
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\1.ExtractPersonInformation.pdb
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\1.ExtractPersonInformation.genruntimeconfig.cache
+D:\My stuff\.programming\csharp\SoftuniCSFundamentals\EXERCISE-TextProcessing\1.ExtractPersonInformation\obj\Debug\net6.0\ref\1.ExtractPersonInformation.dll
